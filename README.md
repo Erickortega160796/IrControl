@@ -4,25 +4,12 @@
 El proyecto consiste en el algoritmo para un módulo de infrarrojo para Arduino. El usuario digita dos números consecutivos para accionar algo en el programa.
 
 
-
-
-
 ### Pre-requisitos 📋
 
 - Arduino Uno 
 - Modulo IR 
 - Control IR
 
-
-
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
 
 ## Construido por 🛠️
 
